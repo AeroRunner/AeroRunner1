@@ -2,8 +2,8 @@
 
 ##  :incoming_envelope: Contact with me :
 
-<a href = "https://t.me/AeroRunner"><img src="mediaReadMe/Telegram.svg" title="Telegram" width="5%"/></a>   
-<img src="mediaReadMe/Gmail.svg" title="Gmail" width="5%"/></a>   Gmail: AirPlay1x6@gmail.com 
+<a href = "https://t.me/AeroRunner"><img src="mediaReadMe/telegram.svg" title="Telegram" width="7%"/></a>   
+<img src="mediaReadMe/Gmail.svg" title="Gmail" width="7%"/></a>   Gmail: AirPlay1x6@gmail.com 
 
 
 ##  :hammer_and_pick: My tools and technologies
