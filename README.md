@@ -1,12 +1,12 @@
 <h1>Hi! I'm Dmitrii</h1>
 
-## Contact with me :
+## :incoming_envelope: Contact with me :
 
 <a href = "https://t.me/AeroRunner"><img width="5%" title="Telegram" src="media/icons8-telegram.svg"></a>   
 <img width="5%" title="Telegram" src="media/icons8-gmail.svg"></a>  
 Gmail: AirPlay1x6@gmail.com
 
-## :computer: My tools and technologies
+## :hammer_and_pick: My tools and technologies
 
  <p align="center">
 <a href="https://www.java.com/"><img src="/mediaReadMe/Java.svg" width="70" height="70"  alt="Java"/></a>
@@ -23,7 +23,7 @@ Gmail: AirPlay1x6@gmail.com
 
 </p>
 
-## :man_student: Дипломные проекты
+## 	:open_file_folder: Дипломные проекты
 
 
 | Project name                                                        | GitHub links                                                     
