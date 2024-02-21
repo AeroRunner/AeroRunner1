@@ -2,7 +2,7 @@
 
 ##  :incoming_envelope: Contact with me :
 
-<a href = "https://t.me/AeroRunner"><img src="mediaReadMe/telegram.svg" title="Telegram" width="7%"/></a>   
+<a href = "https://t.me/AeroRunner"><img src="mediaReadMe/telegram.svg" title="Telegram" width="7%"/></a> Telegram  
 <img src="mediaReadMe/Gmail.svg" title="Gmail" width="7%"/></a>   Gmail: AirPlay1x6@gmail.com 
 
 
