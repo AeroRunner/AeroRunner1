@@ -2,9 +2,9 @@
 
 ## :incoming_envelope: Contact with me :
 
-<a href = "https://t.me/AeroRunner"><img width="5%" title="Telegram" src="media/icons8-telegram.svg"></a>   
-<img width="5%" title="Telegram" src="media/icons8-gmail.svg"></a>  
-Gmail: AirPlay1x6@gmail.com
+<a href = "https://t.me/AeroRunner"><img src="media/Telegram.svg" title="Telegram" width="5%"/></a>   
+<img src="media/Gmail.svg" title="Gmail" width="5%"/></a>   Gmail: AirPlay1x6@gmail.com
+
 
 ## :hammer_and_pick: My tools and technologies
 
@@ -23,7 +23,7 @@ Gmail: AirPlay1x6@gmail.com
 
 </p>
 
-## 	:open_file_folder: Дипломные проекты
+## 	:open_file_folder: Graduation projects
 
 
 | Project name                                                        | GitHub links                                                     
