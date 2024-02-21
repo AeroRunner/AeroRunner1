@@ -1,12 +1,12 @@
 <h1>Hi! I'm Dmitrii</h1>
 
-## :incoming_envelope: Contact with me :
+##  :incoming_envelope: Contact with me :
 
 <a href = "https://t.me/AeroRunner"><img src="media/Telegram.svg" title="Telegram" width="5%"/></a>   
-<img src="media/Gmail.svg" title="Gmail" width="5%"/></a>   Gmail: AirPlay1x6@gmail.com
+<img src="media/Gmail.svg" title="Gmail" width="5%"/></a>   Gmail: AirPlay1x6@gmail.com 
 
 
-## :hammer_and_pick: My tools and technologies
+##  :hammer_and_pick: My tools and technologies
 
  <p align="center">
 <a href="https://www.java.com/"><img src="/mediaReadMe/Java.svg" width="70" height="70"  alt="Java"/></a>
